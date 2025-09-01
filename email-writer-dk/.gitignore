@@ -3,8 +3,40 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+# API keys & local config
+*.env
+application-local.properties
 
 ### STS ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .apt_generated
 .classpath
 .factorypath

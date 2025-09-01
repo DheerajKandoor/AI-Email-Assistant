@@ -1,0 +1,43 @@
+..
+# Build outputs
+target/
+node_modules/
+dist/
+build/
+
+# IDE & OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.properties
+*.yml
+*.env
+
+# IntelliJ IDEA / Eclipse
+.idea/
+.project
+.classpath
+.settings/
+*.swp
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Chrome extension
+*.crx
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
