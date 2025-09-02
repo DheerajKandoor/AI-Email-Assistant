@@ -13,9 +13,4 @@ This project includes:
 - Generate professional emails with AI
 - Easy-to-use React frontend
 - Gmail integration via Chrome Extension
-- Backend powered by Spring Boot (Java)
-
----
-
-## 🗂 Project Structure
-The repository is organized as follows:
+- Backend powered by Spring
